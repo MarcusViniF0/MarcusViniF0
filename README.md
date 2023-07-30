@@ -1,16 +1,29 @@
-### Hi there 👋
+public class Boas_vindas{
+public static void main(String[]args){
+    System.out.println("Hello World!!", Olá mundo!! meu nome é Marcus sou Desenvolvedor de software e é um prazer ti receber aqui aqui!); 👋
 
-<!--
-**MarcusViniF0/MarcusViniF0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 atualmente trabalho Full Stack com PHP Python e JavaScript e SQL
+- 🌱 estudando JavaScript, Typescript e React
+- 📫 marcusviniciustrab@gmail.com
 
-Here are some ideas to get you started:
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />    
+ 
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+
+<br>
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<br> 
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<br> 
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+          
+</div>          
