@@ -5,7 +5,8 @@ public static void main(String[]args){
 - 🔭 atualmente trabalho Full Stack com PHP Python e JavaScript e SQL
 - 🌱 estudando JavaScript, Typescript e React
 - 📫 marcusviniciustrab@gmail.com
-
+}
+}
 <div>
    <h1>Linguagens</h1>
    <img height="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
