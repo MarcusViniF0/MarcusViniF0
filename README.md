@@ -19,9 +19,4 @@ public static void main(String[]args){<br>
    <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 </div> 
 <br>
-<div>
-    <a href="https://github.com/MarcusViniF0">
-    <img height="130em" src=https://github-readme-stats.vercel.app/api?username=MarcusViniF0&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"/>
-</picture>
-</div>  
+ 
