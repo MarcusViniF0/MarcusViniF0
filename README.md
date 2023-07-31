@@ -17,6 +17,10 @@ public static void main(String[]args){<br>
    <h1>Frameworks</h1>
    <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" /> 
    <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-</div> 
+</div>
 <br>
+<div> 
+   <a href="https://www.instagram.com/marini01_mvm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br>
+</div> 
  
