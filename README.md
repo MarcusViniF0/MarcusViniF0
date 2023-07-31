@@ -1,11 +1,10 @@
 public class Boas_vindas{<br>
 public static void main(String[]args){<br>
-    System.out.println("Hello World!!", Olá mundo!! meu nome é Marcus sou Desenvolvedor de software e é um prazer ti receber aqui aqui!); 👋
-
-//- 🔭 atualmente trabalho Full Stack com PHP Python e JavaScript e SQL
-//- 🌱 estudando JavaScript, Typescript e React
-//- 📫 marcusviniciustrab@gmail.com
-<br>}
+    System.out.println("Hello World!!, Olá mundo!! meu nome é Marcus sou Desenvolvedor de software e é um prazer ti receber aqui aqui!👋");
+    <br>}
+<br>//- 🔭 atualmente trabalho Full Stack com PHP Python e JavaScript e SQL
+<br>//- 🌱 estudando JavaScript, Typescript e React
+<br>//- 📫 marcusviniciustrab@gmail.com
 <br>}
 <div>
    <h1>Linguagens</h1>
