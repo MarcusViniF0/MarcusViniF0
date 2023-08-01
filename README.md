@@ -19,5 +19,6 @@ public static void main(String[]args){<br>
    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
    <h3>Redes</h3>
    <a href="https://www.instagram.com/marini01_mvm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcus-vinicius-a57971283/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div> 
  
